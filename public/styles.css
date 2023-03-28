@@ -1,0 +1,128 @@
+body{
+    margin-top:1vw;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:burlywood;
+}
+
+#head1{
+    align-items: center;
+    margin-top:15vw;
+}
+
+h1{
+    font-size: 7vw;
+    text-align: center;   
+}
+
+#home{
+    color: white;
+}
+
+#home:hover{
+    color:aqua;
+}
+
+#achievements{
+    color: white;
+}
+
+#achievements:hover{
+    color:aqua;
+}
+
+#project{
+    color: white;
+}
+
+#project:hover{
+    color:aqua;
+}
+
+#gallery{
+    color: white;
+}
+
+#gallery:hover{
+    color:aqua;
+}
+
+#contact{
+    color: white;
+}
+
+#contact:hover{
+    color:aqua;
+}
+
+#decorate{
+    border: 3px solid black;
+    border-radius: 25px;
+    padding-left: 3vw;  
+    padding-right: 3vw;
+}
+
+
+#first_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;  
+}
+
+.para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+}
+
+li{
+    font-size:1.5vw;
+}
+
+.hobbies{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+}
+
+#third_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+
+}
+#fourth_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+
+}
+#fifth_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+
+}
+#sixth_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+
+}
+#seventh_para{
+    margin-top:1vw;
+    margin-right:2vw;
+    margin-left:2vw;
+    font-size:1.5vw;
+
+}
+
+#item1:hover{
+    color:aqua;
+}
+
